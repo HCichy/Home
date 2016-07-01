@@ -1,0 +1,29 @@
+body 
+{
+	margin: 10px;
+	font-family: 'Sarpanch', sans-serif;
+	background: #000;
+	text-align: center;
+}
+.choose
+{
+	color: #33FE33;
+}
+.tilelink
+{
+	color: #33FE33;
+	text-decoration: none;
+	display: block;
+}
+.img
+{
+	padding: 55px;
+}
+.footer
+{
+	color: #33FE33;
+	position: absolute; bottom: 0; 
+	left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
